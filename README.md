@@ -12,7 +12,9 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Nielz👋</b></h1>
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" width="200">
+</p>
 <p>
   <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
 </p>
