@@ -1,7 +1,7 @@
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/1d01e164-a97a-4158-bc8b-bc1ff64e199e" />
 
 <p>
-  <h1 align="center"><b>Hello there, I'm Pablo 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Nielz 👋</b></h1>
 </p>
 
 >
@@ -21,15 +21,14 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ### 🧭 About Me
-- 💻 Informatics student & Developer based in Cusco.
-- 🔭 I'm currently working on my EdTech projects and class schedule systems :grin:
+- 💻 Informatics student & Developer .
 - 🌱 I’m currently learning **Android Development** and the latest in **Artificial Intelligence & Forensics**.
 - 👯 I’m looking to collaborate with other Developers 😉
 - 🥅 **2026 Goals:** Contribute to Open Source projects.
-- 💬 Ask me about anything (from Laravel and Flutter to Elden Ring bosses), I am happy to help 😄
+- 💬 Ask me about anything, I am happy to help 😄
 - 📬 How to reach me: [Let's get in touch!](#)
 - 🧗 I try to: Go beyond and push the bounds.
-- ⚡ Fun fact: I love connecting with different people and practicing my driving skills 🙌
+- ⚡ Fun fact: I love connecting with different people 🙌
 
 <br>
 
