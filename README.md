@@ -1,4 +1,4 @@
-🔴🟡🟢🔴🟡🟢
+🔴🟡🟢
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/1d01e164-a97a-4158-bc8b-bc1ff64e199e" />
 <div>
 
@@ -10,13 +10,6 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blueviolet" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
-  </a>
-</p>
 
 
 <div>
