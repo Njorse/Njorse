@@ -1,3 +1,6 @@
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/1d01e164-a97a-4158-bc8b-bc1ff64e199e" />
+
+
 Hi there! I’m an enthusiastic and dedicated Frontend Developer with a passion for continuous learning. My drive comes from the intersection of technology and UI design, always pushing myself to refine my craft and stay ahead of the curve.
 
 I love building intuitive, efficient user experiences using HTML, CSS, and JavaScript, alongside modern frameworks like React. I'm highly motivated by problem-solving and collaborating with teams to deliver innovative solutions.
