@@ -1,6 +1,6 @@
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/1d01e164-a97a-4158-bc8b-bc1ff64e199e" />
 </br>
-<img width="360" height="378" alt="image" src="https://github.com/user-attachments/assets/5cc45bef-db7b-4f82-bd3e-f9760cc29898" />
+<img align="center" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" width="200" >
 
 
 
