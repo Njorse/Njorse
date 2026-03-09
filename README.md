@@ -21,17 +21,14 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ### 🧭 About Me
-¡Perfecto! Aquí tienes el texto limpio, solo en inglés y listo para copiar y pegar en tu perfil:
-
-GitHub Profile Bio
--💻 Software Developer & Tech Enthusiast
--🌱 Currently mastering Android Development and AI-Driven Digital Forensics.
--👯 Looking to collaborate with other Developers on innovative projects.
--🥅 2026 Goals: Contribute to Open Source and build secure FinTech solutions.
--💬 Ask me about: Mobile Dev, AI in Forensics, or Bitcoin.
--📬 How to reach me: Let's get in touch and build something great!
--🧗 I try to: Go beyond the code and push the bounds.
--⚡ Fun fact: I love decrypting challenges and connecting with people.
+💻 Informatics student & Developer .
+🌱 I’m currently learning Android Development and the latest in Artificial Intelligence & Forensics.
+👯 I’m looking to collaborate with other Developers 😉
+🥅 2026 Goals: Contribute to Open Source projects.
+💬 Ask me about anything, I am happy to help 😄
+📬 How to reach me: Let's get in touch!
+🧗 I try to: Go beyond and push the bounds.
+⚡ Fun fact: I love connecting with different people 🙌
 
 <br>
 
